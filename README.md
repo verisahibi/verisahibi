@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @verisahibi
+- 👀 I work on performance-oriented solutions for data collection, listing and analysis.
+- 🌱 I’m currently using javascript, c#, .net tools & libraries.
+- 💞️ I would like to collaborate with business ventures in data science and partnerships with companies in the field of marketing
+- 📫 You can reach me with mail: verisahibesi@gmail.com
